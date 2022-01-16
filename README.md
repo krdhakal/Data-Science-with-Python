@@ -1,2 +1,3 @@
 # Data-Science-and-AI-with-Python
-This is the full course for Data Science that I have complied while I took the course from many different plateforms
+I took many courses from different plateforms including in person as well as online. I felt there is no single comprehensive course thta includs all maths, stats and necessary coding. I am tried to put all these things togehter.
+
